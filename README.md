@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-hw 2 p 2
+# Bootstrap-Portfolio
+Hw 2
